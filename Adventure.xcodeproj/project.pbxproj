@@ -22,7 +22,17 @@
 		27320231187DD862000A1570 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2732022F187DD862000A1570 /* InfoPlist.strings */; };
 		27320233187DD862000A1570 /* AdventureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 27320232187DD862000A1570 /* AdventureTests.m */; };
 		2732023E187DEB92000A1570 /* RiddleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2732023D187DEB92000A1570 /* RiddleViewController.m */; };
-		27320240187DF533000A1570 /* CheckMate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2732023F187DF533000A1570 /* CheckMate.framework */; };
+		C2FAC0F5187DF7A900F8A522 /* CheckMate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2FAC0F4187DF7A900F8A522 /* CheckMate.framework */; };
+		C2FAC0F8187DFA4900F8A522 /* StrangeOfficeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FAC0F7187DFA4900F8A522 /* StrangeOfficeViewController.m */; };
+		C2FAC0FA187DFAC400F8A522 /* building.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FAC0F9187DFAC400F8A522 /* building.png */; };
+		C2FAC0FC187DFCEA00F8A522 /* clown.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FAC0FB187DFCEA00F8A522 /* clown.png */; };
+		C2FAC0FF187DFCFB00F8A522 /* ClownViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FAC0FE187DFCFB00F8A522 /* ClownViewController.m */; };
+		C2FAC109187E067C00F8A522 /* angryWorker2.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FAC108187E067C00F8A522 /* angryWorker2.png */; };
+		C2FAC10B187E068400F8A522 /* riddler.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FAC10A187E068400F8A522 /* riddler.png */; };
+		C2FAC10E187E070B00F8A522 /* HappyEndingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FAC10D187E070B00F8A522 /* HappyEndingViewController.m */; };
+		C2FAC111187E071300F8A522 /* SadEndingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FAC110187E071300F8A522 /* SadEndingViewController.m */; };
+		C2FAC114187E085700F8A522 /* gameOver.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FAC112187E085700F8A522 /* gameOver.png */; };
+		C2FAC115187E085700F8A522 /* winna.PNG in Resources */ = {isa = PBXBuildFile; fileRef = C2FAC113187E085700F8A522 /* winna.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,7 +67,21 @@
 		27320232187DD862000A1570 /* AdventureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AdventureTests.m; sourceTree = "<group>"; };
 		2732023C187DEB92000A1570 /* RiddleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RiddleViewController.h; sourceTree = "<group>"; };
 		2732023D187DEB92000A1570 /* RiddleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RiddleViewController.m; sourceTree = "<group>"; };
-		2732023F187DF533000A1570 /* CheckMate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CheckMate.framework; path = ../CheckMate.framework; sourceTree = "<group>"; };
+		C2FAC0F4187DF7A900F8A522 /* CheckMate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CheckMate.framework; sourceTree = "<group>"; };
+		C2FAC0F6187DFA4900F8A522 /* StrangeOfficeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StrangeOfficeViewController.h; sourceTree = "<group>"; };
+		C2FAC0F7187DFA4900F8A522 /* StrangeOfficeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StrangeOfficeViewController.m; sourceTree = "<group>"; };
+		C2FAC0F9187DFAC400F8A522 /* building.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = building.png; sourceTree = "<group>"; };
+		C2FAC0FB187DFCEA00F8A522 /* clown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clown.png; sourceTree = "<group>"; };
+		C2FAC0FD187DFCFB00F8A522 /* ClownViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClownViewController.h; sourceTree = "<group>"; };
+		C2FAC0FE187DFCFB00F8A522 /* ClownViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClownViewController.m; sourceTree = "<group>"; };
+		C2FAC108187E067C00F8A522 /* angryWorker2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angryWorker2.png; sourceTree = "<group>"; };
+		C2FAC10A187E068400F8A522 /* riddler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = riddler.png; sourceTree = "<group>"; };
+		C2FAC10C187E070B00F8A522 /* HappyEndingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HappyEndingViewController.h; path = ../HappyEndingViewController.h; sourceTree = "<group>"; };
+		C2FAC10D187E070B00F8A522 /* HappyEndingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HappyEndingViewController.m; path = ../HappyEndingViewController.m; sourceTree = "<group>"; };
+		C2FAC10F187E071300F8A522 /* SadEndingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SadEndingViewController.h; path = ../SadEndingViewController.h; sourceTree = "<group>"; };
+		C2FAC110187E071300F8A522 /* SadEndingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SadEndingViewController.m; path = ../SadEndingViewController.m; sourceTree = "<group>"; };
+		C2FAC112187E085700F8A522 /* gameOver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameOver.png; sourceTree = "<group>"; };
+		C2FAC113187E085700F8A522 /* winna.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = winna.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27320240187DF533000A1570 /* CheckMate.framework in Frameworks */,
+				C2FAC0F5187DF7A900F8A522 /* CheckMate.framework in Frameworks */,
 				2732020A187DD862000A1570 /* CoreGraphics.framework in Frameworks */,
 				2732020C187DD862000A1570 /* UIKit.framework in Frameworks */,
 				27320208187DD862000A1570 /* Foundation.framework in Frameworks */,
@@ -107,7 +131,7 @@
 		27320206187DD862000A1570 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2732023F187DF533000A1570 /* CheckMate.framework */,
+				C2FAC0F4187DF7A900F8A522 /* CheckMate.framework */,
 				27320207187DD862000A1570 /* Foundation.framework */,
 				27320209187DD862000A1570 /* CoreGraphics.framework */,
 				2732020B187DD862000A1570 /* UIKit.framework */,
@@ -119,9 +143,17 @@
 		2732020D187DD862000A1570 /* Adventure */ = {
 			isa = PBXGroup;
 			children = (
+				C2FAC10C187E070B00F8A522 /* HappyEndingViewController.h */,
+				C2FAC10D187E070B00F8A522 /* HappyEndingViewController.m */,
+				C2FAC10F187E071300F8A522 /* SadEndingViewController.h */,
+				C2FAC110187E071300F8A522 /* SadEndingViewController.m */,
 				27320216187DD862000A1570 /* AppDelegate.h */,
 				27320217187DD862000A1570 /* AppDelegate.m */,
 				27320219187DD862000A1570 /* Main.storyboard */,
+				C2FAC0FD187DFCFB00F8A522 /* ClownViewController.h */,
+				C2FAC0FE187DFCFB00F8A522 /* ClownViewController.m */,
+				C2FAC0F6187DFA4900F8A522 /* StrangeOfficeViewController.h */,
+				C2FAC0F7187DFA4900F8A522 /* StrangeOfficeViewController.m */,
 				2732023C187DEB92000A1570 /* RiddleViewController.h */,
 				2732023D187DEB92000A1570 /* RiddleViewController.m */,
 				2732021C187DD862000A1570 /* ViewController.h */,
@@ -135,6 +167,12 @@
 		2732020E187DD862000A1570 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C2FAC112187E085700F8A522 /* gameOver.png */,
+				C2FAC113187E085700F8A522 /* winna.PNG */,
+				C2FAC10A187E068400F8A522 /* riddler.png */,
+				C2FAC108187E067C00F8A522 /* angryWorker2.png */,
+				C2FAC0FB187DFCEA00F8A522 /* clown.png */,
+				C2FAC0F9187DFAC400F8A522 /* building.png */,
 				2732020F187DD862000A1570 /* Adventure-Info.plist */,
 				27320210187DD862000A1570 /* InfoPlist.strings */,
 				27320213187DD862000A1570 /* main.m */,
@@ -237,7 +275,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FAC0FC187DFCEA00F8A522 /* clown.png in Resources */,
+				C2FAC109187E067C00F8A522 /* angryWorker2.png in Resources */,
 				27320220187DD862000A1570 /* Images.xcassets in Resources */,
+				C2FAC0FA187DFAC400F8A522 /* building.png in Resources */,
+				C2FAC115187E085700F8A522 /* winna.PNG in Resources */,
+				C2FAC10B187E068400F8A522 /* riddler.png in Resources */,
+				C2FAC114187E085700F8A522 /* gameOver.png in Resources */,
 				27320212187DD862000A1570 /* InfoPlist.strings in Resources */,
 				2732021B187DD862000A1570 /* Main.storyboard in Resources */,
 			);
@@ -258,10 +302,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FAC111187E071300F8A522 /* SadEndingViewController.m in Sources */,
+				C2FAC0FF187DFCFB00F8A522 /* ClownViewController.m in Sources */,
 				2732023E187DEB92000A1570 /* RiddleViewController.m in Sources */,
+				C2FAC10E187E070B00F8A522 /* HappyEndingViewController.m in Sources */,
 				2732021E187DD862000A1570 /* ViewController.m in Sources */,
 				27320218187DD862000A1570 /* AppDelegate.m in Sources */,
 				27320214187DD862000A1570 /* main.m in Sources */,
+				C2FAC0F8187DFA4900F8A522 /* StrangeOfficeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -391,6 +439,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"/Users/Sonam/Desktop/Mobile\\ Makers",
+					/Users/aw/Desktop/MM/Adventure,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Adventure/Adventure-Prefix.pch";
@@ -408,6 +457,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"/Users/Sonam/Desktop/Mobile\\ Makers",
+					/Users/aw/Desktop/MM/Adventure,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Adventure/Adventure-Prefix.pch";
@@ -478,6 +528,7 @@
 				27320238187DD862000A1570 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27320239187DD862000A1570 /* Build configuration list for PBXNativeTarget "AdventureTests" */ = {
 			isa = XCConfigurationList;
@@ -486,6 +537,7 @@
 				2732023B187DD862000A1570 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

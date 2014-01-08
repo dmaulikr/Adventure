@@ -14,7 +14,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    [CheckMate initializeFramework:@"e1295e4bd5716c9c12e76c375e7b9245"];
+    [CheckMate initializeFramework:@"fe140b87094884809e3af7c2f2df24e7"];
     return YES;
 }
 							
