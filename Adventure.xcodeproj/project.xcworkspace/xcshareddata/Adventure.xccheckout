@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>9E084479-2272-4943-AF16-F2513EE00DA3</string>
+	<string>5CA416FD-7B8D-43B3-AC71-99498CDECB99</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Adventure</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F7A1D8BC-AE06-4147-8B5A-098C08908BB3</key>
-		<string>https://github.com/adwebb/Adventure.git</string>
+		<key>AB56A4FF-67EB-451E-AAD8-9DB0A7A7772F</key>
+		<string>https://github.com/sonam2006/Adventure.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Adventure.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F7A1D8BC-AE06-4147-8B5A-098C08908BB3</key>
+		<key>AB56A4FF-67EB-451E-AAD8-9DB0A7A7772F</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/adwebb/Adventure.git</string>
+	<string>https://github.com/sonam2006/Adventure.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F7A1D8BC-AE06-4147-8B5A-098C08908BB3</string>
+	<string>AB56A4FF-67EB-451E-AAD8-9DB0A7A7772F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F7A1D8BC-AE06-4147-8B5A-098C08908BB3</string>
+			<string>AB56A4FF-67EB-451E-AAD8-9DB0A7A7772F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Adventure</string>
 		</dict>
